@@ -4,7 +4,7 @@ This project involves developing a simple shell - a miniature version of bash. T
 
 ## Requirements:
 
-• This project must be created in group of 2 people - groupmate:
+• This project must be created in group of 2 people - groupmate:[Vee](https://github.com/vveewwee) \
 • Display a prompt when waiting for a new command \
 • Implement pipes (| character). The output of each command in the pipeline is connected to the input of the next command via a pipe. \
 • Handle environment variables ($ followed by a sequence of characters) which
@@ -19,7 +19,7 @@ foreground pipeline \
     ◦ export with no options \
     ◦ unset with no options \
     ◦ env with no options or arguments \
-    ◦ exit with no options \
+    ◦ exit with no options 
 
 ## Preview
 
